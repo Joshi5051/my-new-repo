@@ -294,8 +294,11 @@ function myfunction4(){
      console.log("Hello, this is another function!");
 }
 myfunction4();
+<<<<<<< HEAD
 
 function myfunction5(){
      console.log("Hello, this is another function!");
 }    
 myfunction5();
+=======
+>>>>>>> branch1
