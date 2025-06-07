@@ -1,0 +1,53 @@
+/* 
+CSS- CASCADING STYLE SHEET
+TYPES OF CSS
+1. Inline CSS - styles applied directly to HTML elements using the style attribute. 
+2. Internal CSS - styles defined within a <style> tag in the head section of an HTML document.
+3. External CSS - styles defined in a separate .css file linked to the HTML document using a <link> tag.
+
+EXAMPLE OF INLINE CSS
+<p style="color: red; font-size: 20px;background-colour:blue;">This is a paragraph with inline CSS.</p>
+EXAMPLE OF INTERNAL CSS
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        p {
+            color: red;
+            font-size: 20px;
+            background-color: blue;
+        }
+    </style>
+</head>
+<body>
+    <p>This is a paragraph with internal CSS.</p>   
+</body>
+</html>
+*/
+
+/* 
+SYNTAX OF CSS
+selector {
+    property: value;
+}
+*/
+
+            .para1{
+                color: blue;
+                font-size: 20px;
+                font-weight: thin;
+                font-style: italic;
+            }
+
+            #para2{
+                color: green;
+                font-size: 30px;
+                font-weight: BOLD;
+                font-style: normal;
+            }
+            * {
+               color: green;
+                font-size: 30px;
+                font-weight: BOLD;
+                font-style: normal; 
+            }
