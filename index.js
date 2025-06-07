@@ -290,3 +290,7 @@ function myfunction3(){
      console.log("Hello, this is another function!");
 }
 myfunction3();
+function myfunction4(){
+     console.log("Hello, this is another function!");
+}
+myfunction4();
