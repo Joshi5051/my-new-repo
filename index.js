@@ -289,4 +289,12 @@ myfunction2();
 function myfunction3(){
      console.log("Hello, this is another function!");
 }
+<<<<<<< HEAD
 myfunction3();
+=======
+myfunction3();
+function myfunction4(){
+     console.log("Hello, this is another function!");
+}
+myfunction4();
+>>>>>>> branch1
