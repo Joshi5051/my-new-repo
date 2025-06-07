@@ -294,7 +294,3 @@ function myfunction4(){
      console.log("Hello, this is another function!");
 }
 myfunction4();
-function myfunction5(){
-     console.log("Hello, this is another function!");
-}
-myfunction5();
