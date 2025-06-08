@@ -282,3 +282,15 @@ console.log("After slice: " + array8);
 function myfunction(){
      alert("Hello, this is a function!");
 }
+function myfunction2(){
+     console.log("Hello, this is another function!");
+}
+myfunction2();
+function myfunction3(){
+     console.log("Hello, this is another function!");
+}
+myfunction3();
+function myfunction4(){
+     console.log("Hello, this is another function!");
+}
+myfunction4();
